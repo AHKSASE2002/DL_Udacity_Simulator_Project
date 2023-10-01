@@ -15,7 +15,7 @@ The model consists of the following layers:
     Activation functions: ReLU for all layers except the last one, which is linear.
 
 # Datasets
-Found Here : https://drive.google.com/drive/folders/1XYR5B-MVpe3I77OlgUyQZsWteE-ZNIcp?usp=sharing
+Found Here : [https://drive.google.com/drive/folders/1XYR5B-MVpe3I77OlgUyQZsWteE-ZNIcp?usp=sharing](https://drive.google.com/drive/folders/1JXOKqOiP0Drz08_fyuX8POa-CawHem8f?usp=drive_link)
 
 # Saved Model
 The trained model's weights and architecture are saved to a file named PTmodel.pth. You can load this model for inference in your autonomous driving system.
